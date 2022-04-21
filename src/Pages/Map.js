@@ -35,8 +35,8 @@ const MapY = () => {
                             <SearchControl options={{
                                 placeholderContent: "Найти убежище рядом с вами",
                                 position:{
-                                    top: 60,
-                                    right:40
+                                    top: "4vh",
+                                    right:"10%",
                                 },
                             }}/>
 
