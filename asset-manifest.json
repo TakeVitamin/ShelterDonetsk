@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ShelterDonetsk/static/css/main.3f1a4c20.css",
+    "main.css": "/ShelterDonetsk/static/css/main.63de877f.css",
     "main.js": "/ShelterDonetsk/static/js/main.5848ef41.js",
     "static/media/info.svg": "/ShelterDonetsk/static/media/info.719bb3e300f517b92c0d921e40c18a86.svg",
     "static/media/peace.svg": "/ShelterDonetsk/static/media/peace.1dc36347dd53b998693828ee36efb3f8.svg",
     "index.html": "/ShelterDonetsk/index.html",
     "static/media/close.svg": "/ShelterDonetsk/static/media/close.e302745f1ceb591b89558fcee9c7820b.svg",
-    "main.3f1a4c20.css.map": "/ShelterDonetsk/static/css/main.3f1a4c20.css.map",
+    "main.63de877f.css.map": "/ShelterDonetsk/static/css/main.63de877f.css.map",
     "main.5848ef41.js.map": "/ShelterDonetsk/static/js/main.5848ef41.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f1a4c20.css",
+    "static/css/main.63de877f.css",
     "static/js/main.5848ef41.js"
   ]
 }
