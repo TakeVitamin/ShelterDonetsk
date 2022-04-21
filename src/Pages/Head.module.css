@@ -9,6 +9,18 @@
     -webkit-animation: heartbeat 5s ease-in-out 8s 20 alternate-reverse both;
     animation: heartbeat 5s ease-in-out 8s 20 alternate-reverse both;
 }
+@media screen and (max-width: 640px){
+    .head {
+        position: absolute;
+        top: 75vh;
+        left: -1vh;
+        height: 70px;
+        width: 70px;
+        cursor: pointer;
+        -webkit-animation: heartbeat 5s ease-in-out 8s 20 alternate-reverse both;
+        animation: heartbeat 5s ease-in-out 8s 20 alternate-reverse both;
+    }
+}
 
 .head:active {
     height: 65px;
