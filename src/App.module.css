@@ -1,23 +1,30 @@
 
 .map{
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 .info{
-  position: absolute;
-  top: 40px; left: 40px;
-  z-index:9999
+    position: absolute;
+    top: 40px; left: 40px;
+    z-index:9999
 }
 .zindex{
-  z-index:9;
+    z-index:9;
 }
 .popup{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 100vw;
-  height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+@media screen and (max-width: 640px){
+    .map{
+        width: 100%;
+        height: 100%;
+    }
 }

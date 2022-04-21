@@ -1,7 +1,7 @@
 import React from 'react';
 import s from './InfoPopUP.module.css'
 import Close from '../images/close.svg';
-import {useDispatch, useSelector} from "react-redux";
+import {useDispatch} from "react-redux";
 import {close} from "../store/closeSlice";
 
 const InfoPopUp = () => {
