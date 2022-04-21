@@ -1,7 +1,7 @@
 import React from 'react';
 import {Map, Placemark, YMaps} from "react-yandex-maps";
 import s from './Map.module.css'
-import data from '../data.json'
+import data from '../store/data.json'
 import '../images/peace.svg'
 
 const MapY = () => {
@@ -12,7 +12,7 @@ const MapY = () => {
                     <div className={s.zindex}>
                         <Map className={s.map}
                              defaultState={{center: [47.99899, 37.802837], zoom: 11,}}
-                             options={{restrictMapArea: true}}>
+                             options={{}}>
                             {data.map((s) => <Placemark modules={['geoObject.addon.balloon']}
                                                         geometry={s.coord}
                                                         properties={{
