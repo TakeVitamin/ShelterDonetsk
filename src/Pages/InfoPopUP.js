@@ -8,7 +8,6 @@ const InfoPopUp = () => {
     const dispatch = useDispatch()
     return (
         <div className={s.style}>
-
             <div className={s.text}>
                 <p>Интерактивная карта бомбоубежищ Донецка</p>
                 <p>Вся информация взята из открытых источников</p>

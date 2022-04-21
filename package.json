@@ -2,7 +2,7 @@
   "name": "map-shelter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://takevitamin.github.io/TakeVitamin/",
+  "homepage": "https://takevitamin.github.io/ShelterDonetsk/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.1",
     "@testing-library/jest-dom": "^5.16.4",
