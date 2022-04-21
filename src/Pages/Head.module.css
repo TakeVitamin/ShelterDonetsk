@@ -11,8 +11,8 @@
 }
 @media screen and (max-width: 640px){
     .head {
-        position: relative;
-        top: 75vh;
+        position: absolute;
+        top: 65vh;
         left: -1vh;
         height: 70px;
         width: 70px;
