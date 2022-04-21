@@ -11,7 +11,8 @@ const MapY = () => {
                 <YMaps>
                     <div className={s.zindex}>
                         <Map className={s.map}
-                             defaultState={{center: [48.015885, 37.802837], zoom: 11}}>
+                             defaultState={{center: [47.99899, 37.802837], zoom: 11,}}
+                             options={{restrictMapArea: true}}>
                             {data.map((s) => <Placemark modules={['geoObject.addon.balloon']}
                                                         geometry={s.coord}
                                                         properties={{
@@ -20,11 +21,13 @@ const MapY = () => {
                                                                              <div><b>Доступность:</b>  ${s.keys} </div>`,
 
                                                             balloonContentFooter: ` <b>Вместимость</b>: ${s.seats} человек`,
+
                                                         }}
                                                         options={{
                                                             iconLayout: "default#image",
-                                                            iconImageSize: [40,40],
-                                                            iconImageHref: 'https://www.svgrepo.com/show/408584/peace-talk-peace-no-war-negotiate.svg'
+                                                            iconImageSize: [40, 40],
+                                                            iconImageHref: 'https://www.svgrepo.com/show/408584/peace-talk-peace-no-war-negotiate.svg',
+
 
                                                         }}
                                 />
