@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76efec5f-4077-4c98-8e8d-08470bcd5ba7" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/store/q.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pages/Head.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/Head.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pages/Head.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/Head.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pages/InfoPopUP.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/InfoPopUP.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pages/Map.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/Map.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pages/Map.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/Map.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +94,7 @@
       <workItem from="1650502111206" duration="1283000" />
       <workItem from="1650503803515" duration="3766000" />
       <workItem from="1650507727307" duration="2396000" />
-      <workItem from="1650554828403" duration="17959000" />
+      <workItem from="1650554828403" duration="19641000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1650498332043</created>
