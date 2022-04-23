@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import {GeolocationControl, Map, Placemark, SearchControl, YMaps} from "react-yandex-maps";
-import s from './Map.module.css'
+import s from '../App.module.css'
 import data from '../store/data.json'
 import '../images/peace.svg'
 import {v4 as uuidv4} from 'uuid';
