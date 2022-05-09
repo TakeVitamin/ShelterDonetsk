@@ -42,7 +42,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -95,7 +95,14 @@
       <workItem from="1650507727307" duration="2396000" />
       <workItem from="1650554828403" duration="23715000" />
       <workItem from="1650579319384" duration="221000" />
-      <workItem from="1650675842879" duration="1073000" />
+      <workItem from="1650675842879" duration="1508000" />
+      <workItem from="1650899984679" duration="82000" />
+      <workItem from="1650914666771" duration="3000" />
+      <workItem from="1650919407609" duration="46000" />
+      <workItem from="1650919479650" duration="12000" />
+      <workItem from="1650920238123" duration="40000" />
+      <workItem from="1650920394069" duration="29000" />
+      <workItem from="1650999149842" duration="57000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <created>1650498332043</created>
